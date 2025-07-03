@@ -24,6 +24,3 @@ Define el flujo de procesamiento de un pedido con pasos comunes y algunos espec�
 **[Echenique Juan - Lanza Tiago]**  
 Materia: **Programación 3**
 
----
-
-Este proyecto es una solución estructurada y mantenible al sistema monolítico original de `OrderManager`.
